@@ -2,7 +2,7 @@
 
 * Just a test to learn some basics in Python.
 
-This clock only shows times where te time seen as an integer is a prime number.
+This clock only shows time when the time seen as an integer is a prime number.
 
 First version only prints time in console.
 Second one creates a pygame window to show the clock.
