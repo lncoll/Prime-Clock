@@ -54,7 +54,7 @@ def main():
     pygame.display.set_caption("PriClock")
     pygame.font.init() 
 
-    font = pygame.font.Font("font.ttf", 64)
+    font = pygame.font.Font("DSEG7Classic-Regular.ttf", 64)
     text_surface = font.render("-WAIT-", False, (110, 110, 110))
     screen.blit(text_surface, (0,5))
     clock = pygame.time.Clock()
